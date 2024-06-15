@@ -1,5 +1,5 @@
 # Fruit Sam
-It's a game based on fruit ninja or you can call it fruit ninja clone. The game is made for college assignment using greenfoot.
+It's a game based on fruit ninja or you can call it a fruit ninja clone. The game is made for college assignment using greenfoot.
 
 ![image](https://github.com/farhanhr/Fruit-Sam_A-Fruit-Ninja-clone/assets/122083217/ccc11d8b-8c17-43ec-997d-e7d459891f9e)
 
